@@ -1,0 +1,8 @@
+{
+  "processes": ["P0", "P1"],
+  "resources": ["R0", "R1"],
+  "allocation": [[1, 0], [0, 1]],
+  "max": [[1, 1], [1, 1]],
+  "available": [0, 0],
+  "request": [[0, 1], [1, 0]]
+}
